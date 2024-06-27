@@ -200,6 +200,9 @@ Vue lifecycle hooks are methods that allow you to hook into different stages of 
         8.	destroyed: Called after the component is destroyed. The component's DOM elements and data are no longer available.
 
 
+# Reference Video To Learn Vue
+
+[![Watch the video](https://i.ytimg.com/vi/YrxBCBibVo0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD9WLQm1NAoLvKJK3YiLFrmRl4qPw)](https://youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1&si=RiT-uzqPqPassF5s)
 
 ---
 
