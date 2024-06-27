@@ -13,11 +13,10 @@ This is a simple Vue.js project that demonstrates the usage of Vue lifecycle hoo
 
 To get started with this project, you need to follow these steps:
 
-   ### 1.	Clone the repository:
-        git clone <your-repository-url>
-        cd vue-simple-setup
-   ### 2.	Open the index.html file in your browser: 
-   You don't need to set up a local server for this simple project. Just open the index.html file directly in your browser.
+  ### 1. Create a folder with any name (vue-demo-app)
+  ### 2. Create an HTML file in the folder, copy the code below, and paste it into the index.html file. (index.html)
+  ### 3. Create a CSS file in the folder, copy the code below, and paste it into the style.css file. (style.css)
+  ### 4. Create a JAVASCRIPT file in the folder, copy the code below, and paste it into the script.js file. (script.js)
 
 ## Usage
 
@@ -28,7 +27,6 @@ This project demonstrates a counter application with increment and decrement but
 The HTML file sets up the basic structure of the application:
 
 ```
-import copyCodeBlock from '@pickra/copy-code-block';
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -107,7 +105,7 @@ The CSS file provides basic styling for the application:
 
 ### JavaScript Logic
 
-The JavaScript file sets up the Vue application and demonstrates various lifecycle hooks:
+The JavaScript file sets up the Vue application:
 
 ```
 const app = Vue.createApp({
