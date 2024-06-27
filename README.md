@@ -198,3 +198,9 @@ Vue lifecycle hooks are methods that allow you to hook into different stages of 
         6.	updated: Called after the component updates due to reactive data changes. This hook is useful for interacting with the updated DOM or performing post-update logic.
         7.	beforeDestroy: Called before the component is destroyed. This hook is useful for performing cleanup tasks, such as removing event listeners or timers.
         8.	destroyed: Called after the component is destroyed. The component's DOM elements and data are no longer available.
+
+
+
+---
+
+This README provides a detailed explanation of the setup process, usage instructions, and an overview of Vue lifecycle hooks. It also includes the example code for the project. Feel free to customize the content as needed.
