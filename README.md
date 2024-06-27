@@ -1,3 +1,6 @@
+# Vue Simple Setup & Vue Lifecycle Hooks Demo
+
+This is a simple Vue.js project that demonstrates the usage of Vue lifecycle hooks through a basic counter application. The project showcases how to use Vue 3, set up lifecycle hooks, and manage reactive state.
 ## Table of Contents
 
     1.	Project Setup
