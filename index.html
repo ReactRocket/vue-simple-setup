@@ -47,12 +47,6 @@
           </svg>
         </button>
       </div>
-      <ol class="lifeCycleList" v-if="lifeCycle.length">
-        <li v-for="(hook, index) in lifeCycle" :key="index">{{ hook }}</li>
-      </ol>
-      <template v-else>
-        <h3>Not Available!</h3>
-      </template>
     </div>
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <script src="script.js"></script>
